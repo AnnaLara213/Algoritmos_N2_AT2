@@ -1,0 +1,28 @@
+PERGUNTA: Qual algoritmo de ordenação tem complexidade O(n²) no pior caso?
+A) Merge sort
+B) Quick sort
+C) Bubble sort
+D) Heap sort
+RESPOSTA: C
+
+PERGUNTA: Qual estrutura é LIFO (Last In, First Out)?
+A) Fila
+B) Pilha
+C) Array
+D) Lista encadeada
+RESPOSTA: B
+
+PERGUNTA: Qual método divide o problema em subproblemas menores?
+A) Recursão
+B) Iteração
+C) Paralelismo
+D) Condicional
+RESPOSTA: B
+
+PERGUNTA: Qual algoritmo usa "dividir para conquistar"?
+A) Busca linear
+B) Busca binária
+C) Bubble sort
+D) Insertion sort
+RESPOSTA: B
+

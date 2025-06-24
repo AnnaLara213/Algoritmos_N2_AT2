@@ -1,0 +1,27 @@
+PERGUNTA: Qual técnica evita recálculos repetidos em recursão?
+A) Programação dinâmica
+B) Loop infinito
+C) Busca linear
+D) Ordenação
+RESPOSTA: A
+
+PERGUNTA: Qual é a complexidade de tempo do Merge Sort?
+A) O(n)
+B) O(n log n)
+C) O(n²)
+D) O(log n)
+RESPOSTA: B
+
+PERGUNTA: Qual estrutura usa FIFO (First In, First Out)?
+A) Pilha
+B) Fila
+C) Árvore
+D) Grafo
+RESPOSTA: B
+
+PERGUNTA: O que é um algoritmo guloso (greedy)?
+A) Escolhe a melhor opção local a cada passo.
+B) Testa todas as combinações possíveis.
+C) Usa recursão.
+D) Divide o problema em partes iguais.
+RESPOSTA: A

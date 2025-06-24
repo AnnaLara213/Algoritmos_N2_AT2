@@ -1,0 +1,28 @@
+PERGUNTA: Qual das opções a seguir representa corretamente um algoritmo?
+A) Um conjunto de imagens.
+B) Um conjunto de instrucoes para resolver um problema.
+C) Um compilador de codigo.
+D) Um tipo de linguagem de programacao.
+RESPOSTA: B
+
+PERGUNTA: Qual estrutura controla a execução sequencial de comandos?
+A) Loop
+B) Condicional
+C) Sequência
+D) Função
+RESPOSTA: C
+
+PERGUNTA: Qual é o tipo de dado usado para representar números inteiros?
+A) Float
+B) String
+C) Boolean
+D) Int
+RESPOSTA: D
+
+PERGUNTA: O que faz o comando "INPUT" em pseudocódigo?
+A) Exibe um valor na tela.
+B) Lê um valor do usuário.
+C) Calcula uma operação matemática.
+D) Armazena dados em um arquivo.
+RESPOSTA: B
+

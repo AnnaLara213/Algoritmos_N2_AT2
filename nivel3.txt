@@ -1,0 +1,28 @@
+PERGUNTA: Qual índice acessa o primeiro elemento de um array?
+A) 0
+B) 1.
+C) -1
+D) 2
+RESPOSTA: A
+
+PERGUNTA: O que é recursão?
+A) Um loop infinito.
+B) Uma função que chama a si mesma.
+C) Um tipo de array.
+D) Um erro de compilação.
+RESPOSTA: B
+
+PERGUNTA: Qual algoritmo busca elemento por elemento em uma lista??
+A) Busca binária
+B) Busca linear
+C) Ordenação rápida
+D) Bubble sort
+RESPOSTA: B
+
+PERGUNTA: Qual algoritmo calcula o fatorial de N corretamente?
+A) int fat(int n){ return n + fat(n-1); }
+B) int fat(int n){ return n * fat(n-1); }
+C) int fat(int n){ if(n==0) return 1; else return n * fat(n-1); }
+D) int fat(int n){ return n / fat(n-1); }
+RESPOSTA: C
+

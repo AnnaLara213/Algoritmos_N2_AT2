@@ -1,0 +1,33 @@
+PERGUNTA: Qual loop é ideal quando se sabe o número de repetições?
+A) While
+B) For
+C) Do-While
+D) Repeat-Until
+RESPOSTA: B
+
+PERGUNTA: O que faz o comando "ELSE" em uma estrutura condicional?
+A) Define uma nova condição.
+B) Executa um bloco se a condição do IF for falsa.
+C) Interrompe o programa.
+D) Repete um bloco de código.
+RESPOSTA: B
+
+PERGUNTA: Qual erro existe neste pseudocódigo?
+SE (idade >= 18) ENTÃO
+     ESCREVA "Adulto"
+    SENÃO
+     ESCREVA "Menor"
+FIM SE
+A) Falta de operador lógico.
+B) Ausência de chaves {}.
+C) Nenhum erro.
+D) Falta de FIM SENÃO.
+RESPOSTA: C
+
+PERGUNTA: O que é uma função?
+A) Um loop infinito.
+B) Um bloco de código reutilizável com um nome.
+C) Um tipo de variável.
+D) Uma estrutura de dados.
+RESPOSTA: B
+
